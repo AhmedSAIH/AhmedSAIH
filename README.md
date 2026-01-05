@@ -16,12 +16,24 @@ Passionate about building modern, scalable web applications that make a differen
 <!-- GitHub Stats Cards with Glow Effect -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Swadah2025&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&line_height=24&bg_color=0D1117,1A1F2C,2D3748)](https://github.com/Swadah2025)
 <a href="https://github.com/Swadah2025" style="text-decoration: none;">
-  <div class="stat-card" style="transition: all 0.3s ease; border: 2px solid transparent; border-radius: 20px; padding: 5px;">
+  <div class="stat-card" style="transition: all 0.3s ease; border: 2px solid transparent; border-radius: 20px; padding: 5px;"
+       onmouseover="this.style.borderColor='#FF6B8B'; this.style.boxShadow='0 0 20px rgba(255,107,139,0.3)'"
+       onmouseout="this.style.borderColor='transparent'; this.style.boxShadow='none'">
+    <img src="https://github-readme-stats.vercel.app/api?username=Swadah2025&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&line_height=24&bg_color=0D1117,1A1F2C,2D3748" alt="GitHub Stats"
+         style="transition: transform 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.02)'"
+         onmouseout="this.style.transform='scale(1)'">
+  </div>
+</a>
+
+<a href="https://github.com/Swadah2025" style="text-decoration: none;">
+  <div class="stat-card" style="transition: all 0.3s ease; border: 2px solid transparent; border-radius: 20px; padding: 5px;"
+       onmouseover="this.style.borderColor='#61DAFB'; this.style.boxShadow='0 0 20px rgba(97,218,251,0.3)'"
+       onmouseout="this.style.borderColor='transparent'; this.style.boxShadow='none'">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swadah2025&layout=compact&theme=radical&hide_border=true&border_radius=20&bg_color=0D1117,1A1F2C,2D3748&langs_count=8" alt="Top Languages" 
          style="transition: transform 0.3s ease;"
-         onmouseover="this.style.transform='scale(1.05)'"
+         onmouseover="this.style.transform='scale(1.02)'"
          onmouseout="this.style.transform='scale(1)'">
   </div>
 </a>
@@ -30,7 +42,7 @@ Passionate about building modern, scalable web applications that make a differen
 
 <!-- GitHub Streak with Animation -->
 <a href="https://github.com/Swadah2025">
-  <div style="transition: all 0.3s ease; border: 2px solid transparent; border-radius: 20px; padding: 5px; display: inline-block;"
+  <div style="transition: all 0.3s ease; border: 2px solid transparent; border-radius: 20px; padding: 5px; display: inline-block; margin-top: 20px;"
        onmouseover="this.style.borderColor='#FF6B8B'; this.style.boxShadow='0 0 20px rgba(255,107,139,0.3)'"
        onmouseout="this.style.borderColor='transparent'; this.style.boxShadow='none'">
     <img src="https://streak-stats.demolab.com?user=Swadah2025&theme=radical&hide_border=true&border_radius=20&background=0D1117&ring=FF6B8B&fire=FF6B8B&currStreakLabel=FF6B8B" 
@@ -43,7 +55,7 @@ Passionate about building modern, scalable web applications that make a differen
 
 ### 🏆 **Contribution Highlights**
 <!-- Animated Table -->
-<div style="overflow-x: auto; position: relative;">
+<div style="overflow-x: auto; position: relative; margin-top: 30px;">
 
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(90deg, transparent 0%, rgba(255,107,139,0.1) 50%, transparent 100%); animation: shimmer 2s infinite; border-radius: 15px;"></div>
 
@@ -96,16 +108,10 @@ Passionate about building modern, scalable web applications that make a differen
 
 ### 🌈 **Technology Categories**
 
-<!-- Frontend Development -->
-<details>
-<summary style="cursor: pointer; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 8px; transition: all 0.3s ease;"
-        onmouseover="this.style.transform='translateX(5px)'; this.style.boxShadow='0 5px 15px rgba(102, 126, 234, 0.4)'"
-        onmouseout="this.style.transform='translateX(0)'; this.style.boxShadow='none'">
-<b>🌐 Frontend Development</b> (Click to expand)
-</summary>
-<br>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+### 🌐 **Frontend Development**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0; padding: 20px; background: rgba(102, 126, 234, 0.1); border-radius: 15px; border: 2px solid rgba(102, 126, 234, 0.3); transition: all 0.3s ease;"
+     onmouseover="this.style.background='rgba(102, 126, 234, 0.15)'; this.style.borderColor='rgba(102, 126, 234, 0.5)'; this.style.boxShadow='0 10px 20px rgba(102, 126, 234, 0.2)'"
+     onmouseout="this.style.background='rgba(102, 126, 234, 0.1)'; this.style.borderColor='rgba(102, 126, 234, 0.3)'; this.style.boxShadow='none'">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=30)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -117,20 +123,11 @@ Passionate about building modern, scalable web applications that make a differen
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
-</details>
 
-<br>
-
-<!-- Backend Development -->
-<details>
-<summary style="cursor: pointer; padding: 10px; background: linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%); color: white; border-radius: 8px; transition: all 0.3s ease;"
-        onmouseover="this.style.transform='translateX(5px)'; this.style.boxShadow='0 5px 15px rgba(78, 205, 196, 0.4)'"
-        onmouseout="this.style.transform='translateX(0)'; this.style.boxShadow='none'">
-<b>⚡ Backend Development</b> (Click to expand)
-</summary>
-<br>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+### ⚡ **Backend Development**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0; padding: 20px; background: rgba(78, 205, 196, 0.1); border-radius: 15px; border: 2px solid rgba(78, 205, 196, 0.3); transition: all 0.3s ease;"
+     onmouseover="this.style.background='rgba(78, 205, 196, 0.15)'; this.style.borderColor='rgba(78, 205, 196, 0.5)'; this.style.boxShadow='0 10px 20px rgba(78, 205, 196, 0.2)'"
+     onmouseout="this.style.background='rgba(78, 205, 196, 0.1)'; this.style.borderColor='rgba(78, 205, 196, 0.3)'; this.style.boxShadow='none'">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -140,20 +137,11 @@ Passionate about building modern, scalable web applications that make a differen
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </div>
-</details>
 
-<br>
-
-<!-- Databases -->
-<details>
-<summary style="cursor: pointer; padding: 10px; background: linear-gradient(135deg, #FF6B8B 0%, #FF8E53 100%); color: white; border-radius: 8px; transition: all 0.3s ease;"
-        onmouseover="this.style.transform='translateX(5px)'; this.style.boxShadow='0 5px 15px rgba(255,107,139,0.4)'"
-        onmouseout="this.style.transform='translateX(0)'; this.style.boxShadow='none'">
-<b>🗄️ Databases</b> (Click to expand)
-</summary>
-<br>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+### 🗄️ **Databases**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0; padding: 20px; background: rgba(255,107,139,0.1); border-radius: 15px; border: 2px solid rgba(255,107,139,0.3); transition: all 0.3s ease;"
+     onmouseover="this.style.background='rgba(255,107,139,0.15)'; this.style.borderColor='rgba(255,107,139,0.5)'; this.style.boxShadow='0 10px 20px rgba(255,107,139,0.2)'"
+     onmouseout="this.style.background='rgba(255,107,139,0.1)'; this.style.borderColor='rgba(255,107,139,0.3)'; this.style.boxShadow='none'">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -162,20 +150,11 @@ Passionate about building modern, scalable web applications that make a differen
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 </div>
-</details>
 
-<br>
-
-<!-- Tools & DevOps -->
-<details>
-<summary style="cursor: pointer; padding: 10px; background: linear-gradient(135deg, #96CEB4 0%, #FFE194 100%); color: black; border-radius: 8px; transition: all 0.3s ease;"
-        onmouseover="this.style.transform='translateX(5px)'; this.style.boxShadow='0 5px 15px rgba(150,206,180,0.4)'"
-        onmouseout="this.style.transform='translateX(0)'; this.style.boxShadow='none'">
-<b>🔧 Tools & DevOps</b> (Click to expand)
-</summary>
-<br>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+### 🔧 **Tools & DevOps**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0; padding: 20px; background: rgba(150,206,180,0.1); border-radius: 15px; border: 2px solid rgba(150,206,180,0.3); transition: all 0.3s ease;"
+     onmouseover="this.style.background='rgba(150,206,180,0.15)'; this.style.borderColor='rgba(150,206,180,0.5)'; this.style.boxShadow='0 10px 20px rgba(150,206,180,0.2)'"
+     onmouseout="this.style.background='rgba(150,206,180,0.1)'; this.style.borderColor='rgba(150,206,180,0.3)'; this.style.boxShadow='none'">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -186,25 +165,15 @@ Passionate about building modern, scalable web applications that make a differen
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-</details>
 
-<br>
-
-<!-- Mobile Development -->
-<details>
-<summary style="cursor: pointer; padding: 10px; background: linear-gradient(135deg, #6A67CE 0%, #9477B4 100%); color: white; border-radius: 8px; transition: all 0.3s ease;"
-        onmouseover="this.style.transform='translateX(5px)'; this.style.boxShadow='0 5px 15px rgba(106,103,206,0.4)'"
-        onmouseout="this.style.transform='translateX(0)'; this.style.boxShadow='none'">
-<b>📱 Mobile Development</b> (Click to expand)
-</summary>
-<br>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+### 📱 **Mobile Development**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0; padding: 20px; background: rgba(106,103,206,0.1); border-radius: 15px; border: 2px solid rgba(106,103,206,0.3); transition: all 0.3s ease;"
+     onmouseover="this.style.background='rgba(106,103,206,0.15)'; this.style.borderColor='rgba(106,103,206,0.5)'; this.style.boxShadow='0 10px 20px rgba(106,103,206,0.2)'"
+     onmouseout="this.style.background='rgba(106,103,206,0.1)'; this.style.borderColor='rgba(106,103,206,0.3)'; this.style.boxShadow='none'">
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
-</details>
 
 ---
 
